@@ -19,9 +19,7 @@
 
 ---
 
-**Equation of the used loss function:**  
+**Loss Function used --> Cross Entropy Style loss for Discounted Returns and learned log probabilities of action from each trial :**  
 
 
-\[
-L = \sum_{i=1}^{\text{num\_trials}} -\log(P_i) \times R_i
-\]
+![eqn](https://github.com/Mehul1729/RL-for-IWT/blob/4257898f7b82063d5727a644464e7ca844494aef/Policy_Learning/Plots/eqn%20of%20lss%20.png)
