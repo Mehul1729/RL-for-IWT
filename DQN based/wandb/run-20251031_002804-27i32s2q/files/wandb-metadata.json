@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-10-30T18:58:04.476775Z",
+  "program":  "C:\\Users\\mehul\\OneDrive\\Desktop\\AI Project 2025\\DQN based\\dqn1.py",
+  "codePath":  "OneDrive\\Desktop\\AI Project 2025\\DQN based\\dqn1.py",
+  "codePathLocal":  "dqn1.py",
+  "git":  {
+    "remote":  "https://github.com/Mehul1729/PINN-for-Damped-Oscillation.git",
+    "commit":  "bac88fb19078075aed634a656e697449bf6e01a8"
+  },
+  "email":  "mehul22@iisertvm.ac.in",
+  "root":  "C:\\Users\\mehul\\OneDrive\\Desktop\\AI Project 2025\\DQN based",
+  "host":  "LAPTOP-EIU04378",
+  "executable":  "C:\\Users\\mehul\\anaconda3\\envs\\clean\\python.exe",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce GTX 1650",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "510744588288",
+      "used":  "444254302208"
+    }
+  },
+  "memory":  {
+    "total":  "16870006784"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  896,
+      "architecture":  "Turing",
+      "uuid":  "GPU-96ef0870-1a5f-024b-b3dd-89750af5ad91"
+    }
+  ],
+  "cudaVersion":  "12.7",
+  "writerId":  "n3dc1vpkz12409cfkd91033bbq1w68mt"
+}
