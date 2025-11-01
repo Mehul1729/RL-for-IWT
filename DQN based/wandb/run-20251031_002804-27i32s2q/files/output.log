@@ -1,8 +1,0 @@
---- Training Limbic Agent (DQN) (Gamma: 0.9) ---
-Traceback (most recent call last):
-  File "C:\Users\mehul\OneDrive\Desktop\AI Project 2025\DQN based\dqn1.py", line 251, in <module>
-    format_batch(transitions, n_actions, device)
-  File "C:\Users\mehul\OneDrive\Desktop\AI Project 2025\DQN based\dqn1.py", line 130, in format_batch
-    next_state_tensors.append(torch.cat([ns_action_one_hot, ns_reward_tensor]))
-                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
