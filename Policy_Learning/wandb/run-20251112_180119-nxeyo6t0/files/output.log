@@ -1,0 +1,31 @@
+--- Training Limbic Agent Alone (Gamma: 0.9) ---
+Episode 300/3000, Average Reward (last 100): 1188.30
+Episode 600/3000, Average Reward (last 100): 2417.05
+Episode 900/3000, Average Reward (last 100): 2427.00
+Episode 1200/3000, Average Reward (last 100): 2444.60
+Episode 1500/3000, Average Reward (last 100): 2542.15
+Episode 1800/3000, Average Reward (last 100): 2503.00
+Episode 2100/3000, Average Reward (last 100): 2480.65
+Episode 2400/3000, Average Reward (last 100): 2398.40
+Episode 2700/3000, Average Reward (last 100): 2445.10
+Episode 3000/3000, Average Reward (last 100): 2617.65
+
+Overall Average Reward after 3000 episodes: 2263.05 for gamma = 0.9
+
+--- Average Deck Pulls (Last 100 Episodes) ---
+Deck A: 0.00 pulls/episode
+Deck B: 0.11 pulls/episode
+Deck C: 3.50 pulls/episode
+Deck D: 96.28 pulls/episode
+Deck E: 0.00 pulls/episode
+Deck F: 0.10 pulls/episode
+Deck G: 0.01 pulls/episode
+Deck H: 0.00 pulls/episode
+
+--- Training Complete ---
+With a high gamma, the agent should have learned to prefer the stable,
+long-term positive decks.
+Model saved to models\limbic_agent_gamma_0.9_env_3.pth
+
+Generating training plots...
+Saved training plots to training_plots_gamma_0.9.png
